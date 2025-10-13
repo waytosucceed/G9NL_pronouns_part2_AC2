@@ -1,0 +1,112 @@
+[
+  {
+    "questionNo": "Q1.",
+    "question": "Which of the following sentences is using a <b>reflexive pronoun</b>?",
+    "options": [
+      "I myself opened the ancient scroll that no one dared to touch.",
+      "She stitched the torn page into the book herself.",
+      "He himself checked the mechanism to ensure it worked correctly.",
+      "Their training was intense, but not enough for this test."
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q2.",
+    "question": "Identify the relative pronoun in the following sentence:<br><b>The explorer, who charted the unknown territory, never returned from his final expedition.</b>",
+    "options": [
+      "explorer",
+      "final",
+      "territory",
+      "who"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q3.",
+    "question": "Which of the following sentences is using a <b>demonstrative pronoun</b>?",
+    "options": [
+      "That cloak belongs to the Grand Inquisitor.",
+      "These old manuscripts are incredibly fragile.",
+      "I found this beneath the trapdoor and kept it hidden.",
+      "Those soldiers marched through the gate without speaking."
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q4.",
+    "question": "Identify the function of the <b>underlined word</b> in the sentence below:<br>She <b><u>herself</u></b> carried the torch through the collapsing corridor.",
+    "options": [
+      "Demonstrative pronoun",
+      "Reflexive pronoun",
+      "Intensive pronoun",
+      "Possessive pronoun"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q5.",
+    "question": "Which of the following sentences contains an <b>interrogative pronoun</b>?",
+    "options": [
+      "What did you see in the chamber before the lights went out?",
+      "She asked me your name.",
+      "The last person to leave forgot his torch.",
+      "I know which direction they took."
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q6.",
+    "question": "Choose the sentence where the pronoun is used intensively.",
+    "options": [
+      "I wouldn’t trust such a vague explanation.",
+      "He painted the entire mural himself.",
+      "The machine resets after the overload.",
+      "She placed her signature beside his."
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q7.",
+    "question": "Identify the relative pronoun in the following sentence:<br>This is the author, who has worked tirelessly, has inspired generations of revolutionaries.",
+    "options": [
+      "author",
+      "who",
+      "inspired",
+      "generations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q8.",
+    "question": "Which of the following sentence is using a demonstrative pronoun?",
+    "options": [
+      "These ruins were uncovered during the second excavation.",
+      "That theory has been challenged by multiple historians.",
+      "This chamber is colder than the others.",
+      "Those are mentioned in the ancient scroll."
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q9.",
+    "question": "Identify the <b>underlined word</b> in the following sentence:<br>He <b><u>himself</u></b> deciphered the inscription without any assistance.",
+    "options": [
+      "Intensive pronoun",
+      "Reflexive pronoun",
+      "Demonstrative pronoun",
+      "Indefinite pronoun"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q10.",
+    "question": "Which of the following sentences uses an <b>interrogative pronoun</b>?",
+    "options": [
+      "What do you suggest we do?",
+      "He pointed to the path that led into the ravine.",
+      "I’m not sure which door he opened last.",
+      "The scouts returned with whatever they could salvage."
+    ],
+    "correct": 0
+  }
+]

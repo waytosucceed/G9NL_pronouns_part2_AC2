@@ -4,7 +4,7 @@
     "question": "Which of the following sentences is using a <b>reflexive pronoun</b>?",
     "options": [
       "I myself opened the ancient scroll that no one dared to touch.",
-      "She stitched the torn page into the book herself.",
+      "She accidentally pricked herself with the needle while stitching the book.",
       "He himself checked the mechanism to ensure it worked correctly.",
       "Their training was intense, but not enough for this test."
     ],
@@ -110,3 +110,4 @@
     "correct": 0
   }
 ]
+
